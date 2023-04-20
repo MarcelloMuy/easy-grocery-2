@@ -14,6 +14,7 @@ Easy Grocery is a web application that allows users to create grocery lists from
 - [Usage Instructions](#ux-usage-instructions)
 - [Configuration](#ux-configuration)
 - [Navigation and Flow](#ux-navigation-and-flow)
+- [Flowchart](#ux-flowchart)
 - [Error Handling](#ux-error-handling)
 - [Accessibility](#ux-accessibility)
 - [Troubleshooting](#ux-troubleshooting)
@@ -33,6 +34,10 @@ Easy Grocery is a web application that allows users to create grocery lists from
 ### UX Navigation and Flow
 
 [Information on how users navigate and interact with the software/project]
+
+### UX Flowchart
+
+  ![Flowchart](assets/images/easy-grocery2-flowchart.png)
 
 ### UX Error Handling
 
